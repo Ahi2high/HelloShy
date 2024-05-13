@@ -7,23 +7,12 @@ Follow these instructions to get the project up and running on your local machin
 Prerequisites
 Visual Studio (2017 or later)
 .NET Framework
-Installation
-From Zip Folder
+Installation from Zip
 Download Zip Folder: Download the zip folder from the Releases page of this repository.
 
 Unzip the Folder: Extract the contents of the downloaded zip folder to a location of your choice on your local machine.
 
 Open Solution in Visual Studio: Navigate to the extracted folder and open the solution file (HelloShyanne.sln) in Visual Studio.
-
-Build Solution: Build the solution in Visual Studio to ensure all dependencies are resolved and the project compiles successfully.
-
-From Source
-Clone the Repository: Clone this repository to your local machine using Git.
-
-bash
-Copy code
-git clone https://github.com/Ahi2high/HelloShy.git
-Open Solution in Visual Studio: Navigate to the cloned repository folder and open the solution file (HelloShyanne.sln) in Visual Studio.
 
 Build Solution: Build the solution in Visual Studio to ensure all dependencies are resolved and the project compiles successfully.
 
