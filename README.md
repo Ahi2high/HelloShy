@@ -12,7 +12,7 @@ Clone the Repository: Clone this repository to your local machine using Git.
 
 bash
 Copy code
-git clone https://github.com/your-username/HelloShyanne.git
+git clone https://github.com/Ahi2high/HelloShy.git
 Open Solution in Visual Studio: Navigate to the cloned repository folder and open the solution file (HelloShyanne.sln) in Visual Studio.
 
 Build Solution: Build the solution in Visual Studio to ensure all dependencies are resolved and the project compiles successfully.
