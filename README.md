@@ -8,6 +8,16 @@ Prerequisites
 Visual Studio (2017 or later)
 .NET Framework
 Installation
+From Zip Folder
+Download Zip Folder: Download the zip folder from the Releases page of this repository.
+
+Unzip the Folder: Extract the contents of the downloaded zip folder to a location of your choice on your local machine.
+
+Open Solution in Visual Studio: Navigate to the extracted folder and open the solution file (HelloShyanne.sln) in Visual Studio.
+
+Build Solution: Build the solution in Visual Studio to ensure all dependencies are resolved and the project compiles successfully.
+
+From Source
 Clone the Repository: Clone this repository to your local machine using Git.
 
 bash
